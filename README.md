@@ -48,6 +48,7 @@ YouTube Channel Memberships - members pay a monthly fee <br>
 
 # Analytics
 [Social Blade](https://socialblade.com/) - social media analytics made easy <br>
+[FollowerKaufen.ch Engagement Calculator](https://followerkaufen.ch/tools/engagement-rate) - free manual likes-and-comments engagement calculation for Instagram and TikTok (German interface for Switzerland; no profile lookup) <br>
 
 # Scheduling
 [Hootsuite](https://www.hootsuite.com/) <br>
